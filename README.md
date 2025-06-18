@@ -2,3 +2,4 @@
 Clase de GitHUB
 patata
 hola
+gitignore.config
